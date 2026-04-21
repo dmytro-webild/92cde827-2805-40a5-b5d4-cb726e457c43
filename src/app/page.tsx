@@ -62,6 +62,7 @@ export default function LandingPage() {
       <MetricCardFourteen
       title="The Bates & Thigpen Promise"
       tag="Why Generations Trust Us"
+      useInvertedBackground={false}
       metrics={[
         { id: "m1", value: "100+", description: "Years of heritage" },
         { id: "m2", value: "30m", description: "Expert fit time" },
@@ -72,6 +73,7 @@ export default function LandingPage() {
 
   <div id="about" data-section="about">
       <InlineImageSplitTextAbout
+      useInvertedBackground={false}
       heading={[
         { type: "text", content: "Guided, Measured, and Served." },
         { type: "image", src: "http://img.b2bpic.net/free-photo/fabric-texture-background_1385-1236.jpg", alt: "bespoke tailoring fabric textures" },
@@ -160,6 +162,7 @@ export default function LandingPage() {
         { text: "Call Us: 555-555-5555", href: "tel:5555555555" },
         { text: "Directions", href: "#" }
       ]}
+      useInvertedBackground={false}
       background={{ variant: "plain" }}
     />
   </div>
