@@ -56,7 +56,7 @@ export default function LandingPage() {
       tag="Established 1920"
       buttons={[
         {
-          text: "Book a Fitting",          href: "#contact"},
+          text: "Schedule Your Fitting",          href: "#contact"},
         {
           text: "Visit the Store",          href: "#contact"},
       ]}
