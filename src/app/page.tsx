@@ -77,11 +77,11 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg?_wi=1",
           imageAlt: "tailor fitting man suit luxury interior",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg?_wi=1",
           imageAlt: "bespoke tailoring fabric textures",
         },
         {
@@ -164,7 +164,7 @@ export default function LandingPage() {
               imageAlt: "tailor fitting man suit luxury interior",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg?_wi=2",
           imageAlt: "bespoke tailoring fabric textures",
         },
         {
@@ -181,7 +181,7 @@ export default function LandingPage() {
               imageAlt: "classic men suits hanging rack",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg?_wi=2",
           imageAlt: "bespoke tailoring fabric textures",
         },
         {
@@ -190,7 +190,7 @@ export default function LandingPage() {
           icon: Shield,
           mediaItems: [
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-man-sitting-antique-arm-chair-looking-magazine-clothes-shop_23-2148175638.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-man-sitting-antique-arm-chair-looking-magazine-clothes-shop_23-2148175638.jpg?_wi=1",
               imageAlt: "luxury leather men shoes collection",
             },
             {
@@ -198,7 +198,7 @@ export default function LandingPage() {
               imageAlt: "luxury leather men shoes collection",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-retired-man_23-2147562098.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-retired-man_23-2147562098.jpg?_wi=1",
           imageAlt: "bespoke tailoring fabric textures",
         },
         {
@@ -215,7 +215,7 @@ export default function LandingPage() {
               imageAlt: "classic men suits hanging rack",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-successful-businessman-standing-restaurant-with-crossed-arm_23-2147955259.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-successful-businessman-standing-restaurant-with-crossed-arm_23-2147955259.jpg?_wi=1",
           imageAlt: "bespoke tailoring fabric textures",
         },
       ]}
@@ -244,7 +244,7 @@ export default function LandingPage() {
               imageAlt: "tailor fitting man suit luxury interior",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-suit-choosing-near-mannequin-boutique_7502-4398.jpg?_wi=3",
           imageAlt: "tailor fitting man suit luxury interior",
         },
         {
@@ -261,7 +261,7 @@ export default function LandingPage() {
               imageAlt: "bespoke tailoring fabric textures",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fabric-textured-background_53876-17999.jpg?_wi=3",
           imageAlt: "tailor fitting man suit luxury interior",
         },
         {
@@ -278,7 +278,7 @@ export default function LandingPage() {
               imageAlt: "classic men suits hanging rack",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-man-sitting-antique-arm-chair-looking-magazine-clothes-shop_23-2148175638.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bearded-man-sitting-antique-arm-chair-looking-magazine-clothes-shop_23-2148175638.jpg?_wi=2",
           imageAlt: "tailor fitting man suit luxury interior",
         },
       ]}
@@ -353,14 +353,14 @@ export default function LandingPage() {
           name: "John Doe",
           role: "Corporate Lead",
           testimonial: "Old school service you don’t get anymore. Simply fantastic.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-retired-man_23-2147562098.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-retired-man_23-2147562098.jpg?_wi=2",
         },
         {
           id: "t2",
           name: "Michael Smith",
           role: "Architect",
           testimonial: "In and out in under 30 minutes every single time.",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-successful-businessman-standing-restaurant-with-crossed-arm_23-2147955259.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-successful-businessman-standing-restaurant-with-crossed-arm_23-2147955259.jpg?_wi=2",
         },
         {
           id: "t3",
